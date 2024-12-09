@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows thumbnail cache files
 Thumbs.db
 
@@ -54,3 +55,60 @@ appsettings.Staging.json
 # Log files
 *.log
 
+=======
+# Windows thumbnail cache files
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer packages
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+.vs
+.vscode
+.idea
+# User-specific files for Visual Studio
+.vs2017
+.vs2019
+.vs2015
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Microsoft Visual Studio for Mac
+.vscode
+
+# Npm package directories
+node_modules/
+
+# ASP.NET specific files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Log files
+*.log
+>>>>>>> 8d760836609ef2aa9359aa47d1ab78d91218b076
